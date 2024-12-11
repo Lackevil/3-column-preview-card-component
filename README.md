@@ -20,7 +20,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ### Links
 
 - Solution URL: [solution]()
-- Live Site URL: [live]()
+- Live Site URL: [live](https://lackevil.github.io/3-column-preview-card-component/)
 
 ### Built with
 
