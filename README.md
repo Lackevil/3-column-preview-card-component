@@ -19,7 +19,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [solution]()
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/3-column-preview-card-component-O1g-VMcHju)
 - Live Site URL: [live](https://lackevil.github.io/3-column-preview-card-component/)
 
 ### Built with
